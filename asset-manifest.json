@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://jagadeeshreddiie.github.io/csb-l4qsyy/static/js/main.216b4549.chunk.js",
+    "main.js.map": "https://jagadeeshreddiie.github.io/csb-l4qsyy/static/js/main.216b4549.chunk.js.map",
+    "runtime-main.js": "https://jagadeeshreddiie.github.io/csb-l4qsyy/static/js/runtime-main.a39f3d55.js",
+    "runtime-main.js.map": "https://jagadeeshreddiie.github.io/csb-l4qsyy/static/js/runtime-main.a39f3d55.js.map",
+    "static/js/2.71c787fe.chunk.js": "https://jagadeeshreddiie.github.io/csb-l4qsyy/static/js/2.71c787fe.chunk.js",
+    "static/js/2.71c787fe.chunk.js.map": "https://jagadeeshreddiie.github.io/csb-l4qsyy/static/js/2.71c787fe.chunk.js.map",
+    "index.html": "https://jagadeeshreddiie.github.io/csb-l4qsyy/index.html",
+    "precache-manifest.31d6efe433f2415d256b069dac844a77.js": "https://jagadeeshreddiie.github.io/csb-l4qsyy/precache-manifest.31d6efe433f2415d256b069dac844a77.js",
+    "service-worker.js": "https://jagadeeshreddiie.github.io/csb-l4qsyy/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39f3d55.js",
+    "static/js/2.71c787fe.chunk.js",
+    "static/js/main.216b4549.chunk.js"
+  ]
+}
